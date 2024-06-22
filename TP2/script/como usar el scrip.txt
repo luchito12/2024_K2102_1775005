@@ -1,5 +1,5 @@
 El script lo que va a hacer es ejecutar todos los comandos y ademas va a generar las salidas correspondientes a cada comando, ademas le agregue una pausa para que se puedan ver los retornos por consola de los comandos,
-es decir el scrip no solo genera los txt con las salidad, sino que te permite ver las salidas desde la misma consola.
+es decir el scrip no solo genera los .txt con las salidad, sino que te permite ver las salidas desde la misma consola.
 
 La ejecucion del mismo de debe realizar en la carpeta scripts ya que esta contiene el archivo breve_historia.txt
 
