@@ -1,0 +1,13 @@
+breve_historia.txt
+breve_historia_2.txt
+breve_historia_con_saltos.txt
+breve_historia_lineas_que_empiezan_con_el_Y_terminan_con_punto.txt
+breve_historia_lista_de_oraciones_con_independencia.txt
+breve_historia_sin_lineas_vacias.txt
+breve_historia_sin_primer_palabra.txt
+cantidad_de_oraciones_con_palabra_peronista.txt
+cantidad_de_palabras_Rosas_en_breve_historia.txt
+cantidad_de_palabras_Sarmiento_en_breve_historia.txt
+enumeracion_de_archivos.txt
+v1.txt
+v2.txt
